@@ -16,7 +16,7 @@ Flexbox Defense -- Done
 
 Flexbox Foggy -- Done
 
-Grid Garden --
+Grid Garden -- Done
 
 
 **JavaScript**
