@@ -21,17 +21,17 @@ Grid Garden -- Done
 
 **JavaScript**
 
-Zadanie 1 --
+Zadanie 1 -- Done
 
-Zadanie 2 --
+Zadanie 2 -- Done
 
-Zadanie 3 --
+Zadanie 3 -- Done
 
-Zadanie 4 --
+Zadanie 4 -- Done
 
-Zadanie 5 --
+Zadanie 5 -- Done
 
-Zadanie 6 --
+Zadanie 6 -- Done
 
-Zadanie 7 --
+Zadanie 7 -- Done
 
