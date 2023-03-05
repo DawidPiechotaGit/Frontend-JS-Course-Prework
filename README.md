@@ -10,7 +10,7 @@ VSCode -- Done
 
 **HTML/CSS**
 
-CSS Diner -- 
+CSS Diner -- Done
 
 Flexbox Defense -- Done
 
